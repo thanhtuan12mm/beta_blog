@@ -58,3 +58,13 @@
   list-style: none;
   padding-left: 0;
 }
+
+.badge {
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  background-color: aquamarine;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
